@@ -111,7 +111,7 @@ app.post('/image', (req, res) => {
 //     // res = false
 // });
 
-app.listen(8080, () => {
+app.listen(3000, () => {
 	console.log('app is running on port 8000');
 })
 
